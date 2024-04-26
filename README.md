@@ -17,9 +17,8 @@ I'm Gustavo, a 28 years old software developer from Portugal.
 - 💽 MySQL, PostgreSQL, SQLite
 
 ## Contact
-- [@gustavo-carvalho95](www.linkedin.com/in/gustavo-carvalho95) on LinkedIN
+- [@gustavo-carvalho95](http://www.linkedin.com/in/gustavo-carvalho95) on LinkedIN
 - gustavo.oak101@gmail.com
 
 ## Certifications
-
-[![Certification Badge](https://brm-workforce.oracle.com/pdf/certview/images/OCAJSE8.png =200x200)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=617FA12F5B2A2748BD9F64BDDD1BD3114A6673DE8D0C0A8F1F06CA1DD24B8053)
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=617FA12F5B2A2748BD9F64BDDD1BD3114A6673DE8D0C0A8F1F06CA1DD24B8053"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCAJSE8.png" width="400" height="200" /></a>
