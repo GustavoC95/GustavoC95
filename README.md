@@ -1,7 +1,7 @@
 ## Hey! 👋
 I'm Gustavo, a 28 years old software developer from Portugal.
 
-- 👨‍💻 Lead Programming Teacher @ Code for All_ .
+- 👨‍💻 Lead Programming Teacher @ Code for all_ 
 
 - 👥 Changed 200+ students lives by introducing them to the wonderful world of software development!
 
