@@ -1,9 +1,9 @@
 ## Hey! 👋
 I'm Gustavo, a 28 years old software developer from Portugal.
 
-- 👨‍💻 Lead Programming Teacher aka <Jedi Master Coder_\> @ Code for All_ .
+- 👨‍💻 Lead Programming Teacher @ Code for All_ .
 
-- 👥 Changed 200+ students lives by intrudocing them to the wonderful world of software development!
+- 👥 Changed 200+ students lives by introducing them to the wonderful world of software development!
 
 - 🧭 Creator of several intro and upskill courses!
 
@@ -12,8 +12,8 @@ I'm Gustavo, a 28 years old software developer from Portugal.
 ## Skills
 - 👨‍💻 Java, JavaScript
 - 🦔 Spring, Spring MVC, Spring Boot, Hibernate
-- ⚙️ React, Svelte, Remix
-- 👁️ CSS, Figma
+- ⚙️ React, Svelte, Node.js
+- 👁️ CSS, Bootstrap, Tailwind
 - 💽 MySQL, PostgreSQL, SQLite
 
 ## Contact
